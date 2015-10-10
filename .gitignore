@@ -1,9 +1,6 @@
-*/Debug/*
-*/Release/*
+.vs/*
+build/*
 *.sdf
-*/bin/*
-*/obj/*
 *.user
 *.suo
 *.opensdf
-.vs/*
