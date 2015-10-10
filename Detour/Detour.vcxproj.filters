@@ -63,6 +63,56 @@
     <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMeshBuilder.cpp" />
     <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMeshQuery.cpp" />
     <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNode.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourAlloc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourCommon.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMesh.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMeshBuilder.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMeshQuery.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNode.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourAlloc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourCommon.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMesh.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMeshBuilder.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMeshQuery.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNode.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourAlloc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourCommon.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMesh.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMeshBuilder.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMeshQuery.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNode.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourAlloc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourCommon.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMesh.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMeshBuilder.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNavMeshQuery.cpp" />
+    <ClCompile Include="C:\GitHub\recastnavigation\Detour\Source\DetourNode.cpp" />
+    <ClCompile Include="DetourAlloc.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DetourCommon.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DetourNavMesh.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DetourNavMeshBuilder.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DetourNavMeshQuery.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="DetourNode.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAlloc.h">
@@ -164,5 +214,109 @@
     <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshQuery.h" />
     <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNode.h" />
     <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourStatus.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAlloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAssert.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourCommon.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourMath.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMesh.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshBuilder.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshQuery.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNode.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourStatus.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAlloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAssert.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourCommon.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourMath.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMesh.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshBuilder.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshQuery.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNode.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourStatus.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAlloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAssert.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourCommon.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourMath.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMesh.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshBuilder.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshQuery.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNode.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourStatus.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAlloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAssert.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourCommon.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourMath.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMesh.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshBuilder.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshQuery.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNode.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourStatus.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAlloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAssert.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourCommon.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourMath.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMesh.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshBuilder.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshQuery.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNode.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourStatus.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAlloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAssert.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourCommon.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourMath.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMesh.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshBuilder.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshQuery.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNode.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourStatus.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAlloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourAssert.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourCommon.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourMath.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMesh.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshBuilder.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNavMeshQuery.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourNode.h" />
+    <ClInclude Include="C:\GitHub\recastnavigation\Detour\Include\DetourStatus.h" />
+    <ClInclude Include="DetourAlloc.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DetourAssert.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DetourCommon.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DetourMath.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DetourNavMesh.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DetourNavMeshBuilder.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DetourNavMeshQuery.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DetourNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="DetourStatus.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
