@@ -1,0 +1,36 @@
+﻿<Window x:Class="NavMeshTest.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:NavMeshTest"
+        mc:Ignorable="d"
+        Title="Nav Mesh Tester" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="20" />
+            <RowDefinition />
+        </Grid.RowDefinitions>
+        <TextBox x:Name="Filename" Grid.Row="0" Background="Salmon" TextChanged="Filename_TextChanged">P:/ath/to/File.nav</TextBox>
+        <Grid Grid.Row="1">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="100" />
+                <ColumnDefinition Width="*" />
+            </Grid.ColumnDefinitions>
+
+            <StackPanel Grid.Column="0">
+                <Label>Start point</Label>
+                <TextBox x:Name="XStart" TextChanged="XStart_TextChanged"/>
+                <TextBox x:Name="YStart" TextChanged="YStart_TextChanged"/>
+                <TextBox x:Name="ZStart" TextChanged="ZStart_TextChanged"/>
+                <Label>End point</Label>
+                <TextBox x:Name="XEnd" TextChanged="XEnd_TextChanged"/>
+                <TextBox x:Name="YEnd" TextChanged="YEnd_TextChanged"/>
+                <TextBox x:Name="ZEnd" TextChanged="ZEnd_TextChanged"/>
+                <Button x:Name="ButtonFindPath" Click="ButtonFindPath_Click">Find Path</Button>
+                <Label x:Name="Result" />
+            </StackPanel>
+            <Canvas x:Name="MainCanvas" Grid.Column="1" Background="CornflowerBlue" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" />
+        </Grid>
+    </Grid>
+</Window>
