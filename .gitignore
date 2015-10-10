@@ -4,4 +4,6 @@
 */bin/*
 */obj/*
 *.user
-
+*.suo
+*.opensdf
+.vs/*
